@@ -3,6 +3,7 @@ Worklytics – Work Tracking System
 Worklytics is a productivity analytics tool built with Ruby on Rails and PostgreSQL. It allows users to log work hours, set weekly goals, and visualize productivity trends. Admins can manage users, view time logs, and export detailed reports.
 
 ###Tech Stack
+
 Backend: Ruby on Rails
 
 Database: PostgreSQL
@@ -18,6 +19,7 @@ Data Generation: Faker (for seed data)
 Background Jobs: Sidekiq (optional)
 
  ###User Features
+ 
 Secure sign-up/login (with BCrypt)
 
 Log tasks with start & end times
